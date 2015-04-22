@@ -2,7 +2,7 @@ Package.describe({
   name: 'hpx7:fb-friends',
   version: '0.0.1',
   summary: 'Get a user\'s facebook friends',
-  git: '',
+  git: 'https://github.com/hpx7/meteor-fb-friends.git',
   documentation: null
 });
 
